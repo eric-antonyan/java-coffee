@@ -1,4 +1,4 @@
-import package1.CoffeeMachine;
+import coffee.CoffeeMachine;
 
 public class App {
     public static void main(String[] args) {

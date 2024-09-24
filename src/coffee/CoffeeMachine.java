@@ -1,4 +1,4 @@
-package package1;
+package coffee;
 
 import java.util.Random;
 import java.util.concurrent.locks.Lock;
